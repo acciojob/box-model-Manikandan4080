@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container{
+	width: 500px;
+	height: 200px;
+	background-color: #d3d3d3;
+	border: 5px solid black;
+	border-radius: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.circle{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+}
+.red{
+	background-color:red;
+}
+.green{
+	background-color:green;
+}
+.yellow{
+	background-color:yellow;
+}
